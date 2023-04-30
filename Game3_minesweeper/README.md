@@ -23,4 +23,4 @@ Features I could have added with more time:
 - difficulty sliders (more bombs, bigger or smaller arena)
 - A timer that shows you how long you have been playing
 
-![a screenshot of the minesweeper game](Img/minesweeper_screenshot.png)
+![a screenshot of the minesweeper game](img/minesweeper_screenshot.png)
