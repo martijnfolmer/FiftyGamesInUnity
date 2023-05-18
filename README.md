@@ -9,3 +9,5 @@ Games currently in the repository:
 <img src="Game2_snake/Img/snake_screenshot.png" width="500">
 - 3 Minesweeper
 <img src="Game3_minesweeper/img/minesweeper_screenshot.png" width="500">
+- 4 Tetris
+<img src="Game4_tetris/img/tetris_screenshot.png" width = "500">
