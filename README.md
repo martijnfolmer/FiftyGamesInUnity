@@ -26,3 +26,7 @@ Games currently in the repository:
 - 6 Asteroids
 
 <img src="Game6_Asteroids/img/Asteroids_screenshot.png" width = "500">
+
+- 7 Brick Breaker
+
+<img src="Game7_BrickBreaker/img/Game7_brickbreaker_screenshot.png" width="500">

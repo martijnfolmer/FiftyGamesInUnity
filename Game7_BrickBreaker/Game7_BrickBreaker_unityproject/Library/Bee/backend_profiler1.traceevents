@@ -1,0 +1,620 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1705773655572038, "dur":1057, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773655573100, "dur":36, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1705773655573145, "dur":9, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1705773655573154, "dur":597, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1705773655573783, "dur":316, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773655574099, "dur":0, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656156813, "dur":759, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157572, "dur":26, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157598, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157600, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157606, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157608, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157620, "dur":62, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157682, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157686, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157687, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157691, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157692, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157695, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157696, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157712, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157713, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157716, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157717, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157721, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157722, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157728, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157730, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157734, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157735, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157745, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157747, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157751, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157752, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157757, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157759, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157762, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157764, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157769, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157771, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157774, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157776, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157781, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157782, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157786, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157787, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157793, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157794, "dur":26, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157820, "dur":35, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157855, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157862, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157863, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157866, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157868, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157871, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157872, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157875, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157876, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157879, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157880, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157883, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157884, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157886, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157887, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157890, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157891, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157894, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157895, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157898, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157901, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157904, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157915, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656157920, "dur":1283, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1705773655573952, "dur":285, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705773655574237, "dur":2981, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705773655577219, "dur":420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1705773655577641, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705773655583293, "dur":1203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1705773655584540, "dur":24977, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705773655609519, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705773655609524, "dur":1729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705773655611281, "dur":23752, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705773655635035, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705773655635039, "dur":7378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705773655642444, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":1, "ts":1705773655642478, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705773655642481, "dur":985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":1, "ts":1705773655643522, "dur":6777, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1705773655650303, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705773655650311, "dur":1317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1705773655651653, "dur":505184, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705773655574977, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705773655574977, "dur":2351, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705773655577328, "dur":18164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705773655595495, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705773655595503, "dur":1169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705773655596723, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705773655596823, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705773655596828, "dur":764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705773655597618, "dur":15877, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705773655613501, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705773655613510, "dur":1450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705773655614993, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705773655615197, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705773655615203, "dur":1688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705773655616925, "dur":27988, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705773655644915, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705773655644920, "dur":7125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705773655652068, "dur":504753, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705773655574134, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705773655574134, "dur":3080, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705773655577219, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1705773655577378, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705773655579588, "dur":3410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1705773655583056, "dur":21672, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705773655604731, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705773655604737, "dur":1845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705773655606610, "dur":19253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705773655625866, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705773655625888, "dur":1525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705773655627440, "dur":54037, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705773655681480, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705773655681486, "dur":667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705773655682171, "dur":474742, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705773655574143, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705773655574143, "dur":3070, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705773655577218, "dur":16874, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1705773655594094, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705773655594107, "dur":1342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1705773655595479, "dur":13670, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705773655609152, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705773655609158, "dur":2768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705773655611960, "dur":15876, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705773655627840, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705773655627845, "dur":2234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705773655630123, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705773655630286, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705773655630290, "dur":2788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705773655633110, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705773655633317, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705773655633322, "dur":5307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705773655638664, "dur":658, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705773655639324, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705773655639329, "dur":10543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705773655649898, "dur":507007, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705773655573862, "dur":245, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705773655574109, "dur":3100, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705773655577218, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1705773655577224, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705773655578758, "dur":510, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1705773655579273, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1705773655579313, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705773655579625, "dur":2201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1705773655581830, "dur":26709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705773655608543, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705773655608550, "dur":2388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705773655610972, "dur":22006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705773655632982, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705773655632989, "dur":4948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705773655637965, "dur":1902, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705773655639869, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705773655639873, "dur":10903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705773655650802, "dur":506106, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705773655573888, "dur":225, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705773655574113, "dur":3111, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705773655577225, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1705773655577379, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705773655580164, "dur":3044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1705773655583246, "dur":21651, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705773655604900, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705773655604905, "dur":2327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705773655607330, "dur":288, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705773655607621, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705773655607626, "dur":3006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705773655610669, "dur":56060, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705773655666732, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705773655666738, "dur":988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705773655667754, "dur":489129, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705773655573943, "dur":227, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705773655574170, "dur":3047, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705773655577217, "dur":61338, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1705773655638557, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705773655638582, "dur":1297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1705773655639908, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705773655640129, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705773655640136, "dur":10472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705773655650638, "dur":506202, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705773655573907, "dur":212, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705773655574119, "dur":3091, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705773655577218, "dur":34382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1705773655611603, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705773655611827, "dur":2209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1705773655614065, "dur":17596, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705773655631664, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705773655631674, "dur":4067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705773655635765, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705773655635885, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705773655635889, "dur":8710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705773655644629, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1705773655644667, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705773655644671, "dur":2168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1705773655646866, "dur":509949, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655574504, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655574504, "dur":2710, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655577217, "dur":16485, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1705773655593705, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655593720, "dur":1227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1705773655595016, "dur":23439, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655618458, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655618465, "dur":1197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655619692, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655619795, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655619801, "dur":1429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655621263, "dur":305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655621571, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655621577, "dur":1761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655623369, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655623484, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655623489, "dur":1148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655624673, "dur":349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655625024, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655625034, "dur":1685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655626766, "dur":248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655627017, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655627022, "dur":2602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655629655, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655629779, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655629785, "dur":1060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655630874, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655631033, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655631037, "dur":3374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655634471, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655634612, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655634617, "dur":7529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705773655642170, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1705773655642200, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655642230, "dur":1233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1705773655643499, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":9, "ts":1705773655643651, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705773655643656, "dur":1459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":9, "ts":1705773655645160, "dur":511647, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705773655574019, "dur":226, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705773655574245, "dur":3006, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705773655577253, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1705773655577496, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705773655581565, "dur":2273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1705773655583870, "dur":17275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705773655601150, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705773655601159, "dur":1120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705773655602309, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705773655602443, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705773655602447, "dur":1727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705773655604204, "dur":26551, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705773655630766, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705773655630771, "dur":3142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705773655633944, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705773655634117, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705773655634122, "dur":5947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705773655640102, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705773655640239, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705773655640244, "dur":10558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705773655650829, "dur":506091, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705773655574215, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705773655574215, "dur":3015, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705773655577232, "dur":406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1705773655577640, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705773655582696, "dur":1214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1705773655583939, "dur":61468, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705773655645445, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705773655645452, "dur":6650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705773655652123, "dur":504720, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705773655574163, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705773655574163, "dur":3129, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705773655577293, "dur":61029, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705773655638326, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705773655638332, "dur":10275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705773655648636, "dur":508289, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705773655574186, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705773655574186, "dur":3088, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705773655577274, "dur":20791, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705773655598069, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705773655598075, "dur":939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705773655599046, "dur":17636, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705773655616685, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705773655616692, "dur":967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705773655617687, "dur":133031, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705773655750735, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705773655750742, "dur":1345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705773655752105, "dur":404728, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1705773655574321, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1705773655574321, "dur":2952, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1705773655577274, "dur":53421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705773655630697, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1705773655630703, "dur":3041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705773655633798, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705773655633932, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1705773655633937, "dur":5737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705773655639700, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705773655639838, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1705773655639843, "dur":10242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705773655650112, "dur":506847, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1705773655574386, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1705773655574386, "dur":2873, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1705773655577260, "dur":96545, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject.exe" }}
+,{ "pid":12345, "tid":15, "ts":1705773655673808, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1705773655673814, "dur":958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject.exe" }}
+,{ "pid":12345, "tid":15, "ts":1705773655674793, "dur":482025, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705773655574539, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705773655574540, "dur":2682, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705773655577223, "dur":495, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1705773655577720, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705773655583777, "dur":1311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1705773655585113, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655585256, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705773655585522, "dur":1137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655586689, "dur":253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655586945, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705773655586984, "dur":1237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655588249, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655588354, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705773655588358, "dur":1132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655589537, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655589799, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705773655589805, "dur":1655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655591504, "dur":14938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655606445, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705773655606452, "dur":2988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655609485, "dur":20787, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655630279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705773655630285, "dur":2815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655633124, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655633398, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705773655633403, "dur":4878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655638332, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655638495, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705773655638500, "dur":10234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705773655648764, "dur":508039, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1705773655574853, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1705773655574853, "dur":2455, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1705773655577311, "dur":57953, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1705773655635266, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1705773655635271, "dur":8059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1705773655643388, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":17, "ts":1705773655643438, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1705773655643442, "dur":1232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":17, "ts":1705773655644703, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/boot.config" }}
+,{ "pid":12345, "tid":17, "ts":1705773655644809, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1705773655644813, "dur":2271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/boot.config" }}
+,{ "pid":12345, "tid":17, "ts":1705773655647127, "dur":509820, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1705773655574614, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1705773655574614, "dur":2639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1705773655577254, "dur":2476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":18, "ts":1705773655579733, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1705773655580112, "dur":2898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":18, "ts":1705773655583104, "dur":28506, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1705773655611613, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1705773655611619, "dur":2215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1705773655613861, "dur":17956, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1705773655631820, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1705773655631824, "dur":4161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1705773655636005, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":18, "ts":1705773655636099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1705773655636102, "dur":8851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":18, "ts":1705773655645134, "dur":511679, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1705773655574758, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1705773655574758, "dur":2498, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1705773655577257, "dur":14360, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":19, "ts":1705773655591620, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1705773655591705, "dur":5124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":19, "ts":1705773655596861, "dur":14915, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1705773655611779, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1705773655611784, "dur":2736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1705773655614567, "dur":18456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1705773655633027, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1705773655633056, "dur":4876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1705773655637974, "dur":1789, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":19, "ts":1705773655639779, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1705773655639784, "dur":10345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":19, "ts":1705773655650176, "dur":506634, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1705773655574779, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1705773655574779, "dur":2437, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1705773655577225, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":20, "ts":1705773655577453, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1705773655580854, "dur":2320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":20, "ts":1705773655583208, "dur":18034, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1705773655601245, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1705773655601251, "dur":846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1705773655602127, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1705773655602258, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1705773655602264, "dur":1101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1705773655603393, "dur":16829, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1705773655620225, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1705773655620231, "dur":1322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1705773655621588, "dur":365, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":20, "ts":1705773655621955, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1705773655621960, "dur":1471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":20, "ts":1705773655623462, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":20, "ts":1705773655623606, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1705773655623611, "dur":1201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":20, "ts":1705773655624839, "dur":533, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":20, "ts":1705773655625376, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1705773655625381, "dur":1637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":20, "ts":1705773655627049, "dur":56298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":20, "ts":1705773655683349, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1705773655683353, "dur":763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":20, "ts":1705773655684134, "dur":472677, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1705773655574801, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1705773655574801, "dur":2435, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1705773655577239, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":21, "ts":1705773655577400, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1705773655579972, "dur":2943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":21, "ts":1705773655582961, "dur":85526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1705773655668490, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1705773655668495, "dur":569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1705773655669082, "dur":487828, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1705773655574957, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1705773655574958, "dur":2300, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1705773655577258, "dur":33790, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":22, "ts":1705773655611051, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1705773655611065, "dur":14652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":22, "ts":1705773655625747, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":22, "ts":1705773655625839, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1705773655625844, "dur":1819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":22, "ts":1705773655627721, "dur":57041, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":22, "ts":1705773655684764, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1705773655684768, "dur":659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":22, "ts":1705773655685443, "dur":471652, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1705773655574998, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1705773655574998, "dur":2317, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1705773655577326, "dur":59953, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1705773655637282, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1705773655637287, "dur":9777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1705773655647090, "dur":509777, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1705773655575145, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1705773655575145, "dur":2114, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1705773655577259, "dur":1852, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":24, "ts":1705773655579114, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1705773655579119, "dur":3986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":24, "ts":1705773655583140, "dur":21581, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1705773655604724, "dur":42, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1705773655604772, "dur":1841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1705773655606643, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1705773655606766, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1705773655606771, "dur":3154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1705773655609953, "dur":17619, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1705773655627585, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1705773655627597, "dur":2192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1705773655629817, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":24, "ts":1705773655629915, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1705773655629920, "dur":1597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":24, "ts":1705773655631546, "dur":2016, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":24, "ts":1705773655633564, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1705773655633570, "dur":6538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":24, "ts":1705773655640149, "dur":2877, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":24, "ts":1705773655643028, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1705773655643032, "dur":10263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":24, "ts":1705773655653315, "dur":503501, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1705773655575186, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1705773655575186, "dur":2092, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1705773655577283, "dur":25250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1705773655602534, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1705773655602538, "dur":1619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1705773655604186, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1705773655604345, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1705773655604352, "dur":2121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1705773655606511, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1705773655606604, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1705773655606611, "dur":2745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1705773655609387, "dur":18216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1705773655627618, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1705773655627645, "dur":2267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1705773655629940, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":25, "ts":1705773655630035, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1705773655630039, "dur":1685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":25, "ts":1705773655631758, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":25, "ts":1705773655631865, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1705773655631870, "dur":4363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":25, "ts":1705773655636262, "dur":292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":25, "ts":1705773655636556, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1705773655636560, "dur":10286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":25, "ts":1705773655646871, "dur":509930, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1705773655575267, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1705773655575267, "dur":2002, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1705773655577270, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":26, "ts":1705773655577396, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1705773655579898, "dur":7194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":26, "ts":1705773655587128, "dur":19761, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1705773655606891, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1705773655606944, "dur":2878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1705773655609851, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1705773655609985, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1705773655609989, "dur":1645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1705773655611661, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1705773655611753, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1705773655611757, "dur":1834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1705773655613621, "dur":1466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1705773655615090, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1705773655615098, "dur":2080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1705773655617205, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1705773655617368, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1705773655617373, "dur":947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1705773655618357, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1705773655618475, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1705773655618480, "dur":1178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1705773655619688, "dur":20166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1705773655639857, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1705773655639863, "dur":9478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1705773655649367, "dur":507497, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1705773655575338, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1705773655575339, "dur":1894, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1705773655577234, "dur":19157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":27, "ts":1705773655596395, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1705773655596411, "dur":1094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":27, "ts":1705773655597539, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1705773655597647, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1705773655597653, "dur":1248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1705773655598933, "dur":16915, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1705773655615852, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1705773655615859, "dur":1061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1705773655616949, "dur":18902, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1705773655635854, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1705773655635858, "dur":8720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1705773655644617, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":27, "ts":1705773655644658, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1705773655644662, "dur":2110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":27, "ts":1705773655646804, "dur":509994, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1705773655575400, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1705773655575400, "dur":1827, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1705773655577228, "dur":13163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":28, "ts":1705773655590394, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1705773655590518, "dur":1478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":28, "ts":1705773655592031, "dur":32354, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1705773655624389, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1705773655624396, "dur":1477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1705773655625904, "dur":358, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":28, "ts":1705773655626264, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1705773655626268, "dur":2261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":28, "ts":1705773655628573, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":28, "ts":1705773655628677, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1705773655628682, "dur":1661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":28, "ts":1705773655630373, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":28, "ts":1705773655630495, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1705773655630500, "dur":3167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":28, "ts":1705773655633699, "dur":547, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":28, "ts":1705773655634248, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1705773655634267, "dur":6895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":28, "ts":1705773655641193, "dur":514751, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":28, "ts":1705773656155947, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1705773656156118, "dur":564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":28, "ts":1705773656156702, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":28, "ts":1705773656156703, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1705773655575419, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1705773655575419, "dur":1800, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1705773655577222, "dur":61687, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":29, "ts":1705773655638912, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1705773655638930, "dur":1205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":29, "ts":1705773655640172, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":29, "ts":1705773655640376, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1705773655640379, "dur":10652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":29, "ts":1705773655651054, "dur":505791, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1705773655575667, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1705773655575667, "dur":1573, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1705773655577241, "dur":478, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":30, "ts":1705773655577721, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1705773655584088, "dur":938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":30, "ts":1705773655585050, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1705773655585145, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1705773655585489, "dur":1118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1705773655586638, "dur":709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1705773655587350, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1705773655587355, "dur":1372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1705773655588756, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1705773655588862, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1705773655588867, "dur":1628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1705773655590525, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1705773655590648, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1705773655590653, "dur":1075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1705773655591759, "dur":39555, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1705773655631317, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1705773655631324, "dur":3648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1705773655635001, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":30, "ts":1705773655635096, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1705773655635101, "dur":7817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":30, "ts":1705773655642950, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":30, "ts":1705773655642980, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1705773655642990, "dur":830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":30, "ts":1705773655643848, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/level0" }}
+,{ "pid":12345, "tid":30, "ts":1705773655643878, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1705773655643882, "dur":1366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/level0" }}
+,{ "pid":12345, "tid":30, "ts":1705773655645274, "dur":511600, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1705773655575443, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1705773655575443, "dur":1772, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1705773655577218, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":31, "ts":1705773655577427, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1705773655580149, "dur":2761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":31, "ts":1705773655582945, "dur":21464, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1705773655604427, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1705773655604432, "dur":1115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1705773655605574, "dur":20555, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1705773655626132, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1705773655626138, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1705773655627746, "dur":90870, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":31, "ts":1705773655718619, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1705773655718625, "dur":981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":31, "ts":1705773655719626, "dur":437174, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1705773655575520, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1705773655575520, "dur":1692, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1705773655577218, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":32, "ts":1705773655577471, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1705773655581408, "dur":1896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":32, "ts":1705773655583345, "dur":50817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1705773655634169, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1705773655634175, "dur":6012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1705773655640215, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":32, "ts":1705773655640320, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1705773655640324, "dur":10630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/marti/Downloads/BUILDS/Game7_BrickBreaker_unityproject_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":32, "ts":1705773655650987, "dur":505940, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705773656160068, "dur":1166, "ph":"X", "name": "ProfilerWriteOutput" }
+,
